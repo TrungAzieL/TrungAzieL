@@ -30,25 +30,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nmihtrug#gh-light-mode-only">
-    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api/top-langs/?username=nmihtrug&layout=compact&theme=github&include_all_commits=true&count_private=true&hide_border=true"  width = "450px"></kbd>
-  </a>
-  <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
-    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api/top-langs/?username=nmihtrug&layout=donut&theme=radical&include_all_commits=true&count_private=true&hide_border=true"  width = "450px" ></kbd>
-</p>
 
-<p align="center">
-  <a href="https://github.com/nmihtrug#gh-light-mode-only">
-    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/most-commit-language?username=nmihtrug&theme=github&exclude=shell" width = "400px"></kbd>
-    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/repos-per-language?username=nmihtrug&theme=github&exclude=shell" width = "400px"></kbd>
-  </a>
-  
-  <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
-    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/most-commit-language?username=nmihtrug&theme=radical&exclude=shell" width = "400px"></kbd>
-    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/repos-per-language?username=nmihtrug&theme=radical&exclude=shell" width = "400px"></kbd>
-  </a>
-</p>
 
 ## Contribution Graph
 
